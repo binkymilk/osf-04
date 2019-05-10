@@ -1,0 +1,5 @@
+# requirements.in
+geomancer==1.1.0
+click
+pandas
+
